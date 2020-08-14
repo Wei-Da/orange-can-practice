@@ -1,13 +1,17 @@
 {
+  "entryPagePath": "pages/welcome/welcome",
   "pages":[
+    "pages/welcome/welcome",
+    "pages/post/post",
     "pages/index/index",
     "pages/logs/logs"
   ],
   "window":{
     "backgroundTextStyle":"light",
-    "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "Weixin",
-    "navigationBarTextStyle":"black"
+    "navigationBarTitleText": "微信小程序",
+    "navigationBarTextStyle":"black",
+    "navigationBarBackgroundColor": "#ECC0A8",
+    "backgroundColor": "#4A6141"
   },
   "style": "v2",
   "sitemapLocation": "sitemap.json"
